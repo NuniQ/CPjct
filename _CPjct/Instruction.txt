@@ -1,0 +1,22 @@
+Hello,this bat-file created for people who want to optimize their time in Web-sphere
+
+1.Download Node.js - https://nodejs.org/en/
+2.Download BrowserSync:
+	1.Win + R
+	2.Write: cmd
+	3.Open cmd
+	4.Write in cmd: npm install -g browser-sync
+	5.Wait for loading
+3.Open our bat-file "_CPjct.bat"
+4.The project created on your Desktop.Folder's name is _project
+
+BAT:server.bat
+HTML:index.html
+CSS:clear.css
+Less:style.css
+JS:script.js
+
+Inside the _project folder, there is a bat-file "server.bat". Run the "server.bat", when you want to start the server with this project.
+
+
+Created by NuniQ
