@@ -15,7 +15,7 @@ cd js
 cd ..
 set Current_CD__project=%cd%
 cd %Current_CD_CPjct%
-copy reset.css %Current_CD__project%/css
+copy reset.css %Current_CD__project%\css
 copy index.html %Current_CD__project%
 copy server.bat %Current_CD__project%
 cd %Current_CD__project%
